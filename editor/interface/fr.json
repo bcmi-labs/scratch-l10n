@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Transforme n'importe quoi en touche.",
     "gui.extension.microbit.description": "Connecter vos projets avec le monde.",
     "gui.extension.microbit.connectingMessage": "Connexion",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Construire des robots interactifs et plus.",
     "gui.extension.ev3.connectingMessage": "Connexion. Vérifiez que le pin sur votre EV3 est mis sur 1234.",
     "gui.extension.boost.description": "Bring robotic creations to life.",

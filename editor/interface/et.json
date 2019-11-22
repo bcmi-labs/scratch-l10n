@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Muuda kõik võtmeks",
     "gui.extension.microbit.description": "Ühenda oma projektid pärismaailmaga.",
     "gui.extension.microbit.connectingMessage": "Ühendamine",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Ehita interaktiivseid roboteid ja muud",
     "gui.extension.ev3.connectingMessage": "Ühendamine. Kontrolli, kas EV3 pin-kood on 1234.",
     "gui.extension.boost.description": "Bring robotic creations to life.",

@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Gwneud unrhywbeth yn allwedd.",
     "gui.extension.microbit.description": "Cysylltu eich project â'r byd.",
     "gui.extension.microbit.connectingMessage": "Cysylltu",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Adeiladu robotiaid rhyngweithiol a mwy.",
     "gui.extension.ev3.connectingMessage": "Wrthi'n cysylltu. Gwnewch yn siwr fod y PIN ar eich EV3 wedi ei osod i 1234.",
     "gui.extension.boost.description": "Dod â creadigaethau robotig yn fyw.",

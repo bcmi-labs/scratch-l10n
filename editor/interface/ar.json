@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "لتحويل أي شيء إلى مفتاح.",
     "gui.extension.microbit.description": "لربط مشاريعك  بالعالم.",
     "gui.extension.microbit.connectingMessage": "جارٍ التوصيل",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "لبناء روبوتات تفاعلية وغيرها.",
     "gui.extension.ev3.connectingMessage": "جارٍ التوصيل. تأكد من أن الرقم السري على جهاز EV3 الخاص بك مضبوط على القيمة 1234.",
     "gui.extension.boost.description": "لبث الروح في كائناتك الروبوتية.",

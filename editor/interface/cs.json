@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Udělej vše do klíče.",
     "gui.extension.microbit.description": "Propojení tvých projektů se světem.",
     "gui.extension.microbit.connectingMessage": "Propojování",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Stavění interaktivních robotů a mnoho dalšího.",
     "gui.extension.ev3.connectingMessage": "Propojuje se. Ujisti, se že PIN na svém EV3 máš nastavený na 1234.",
     "gui.extension.boost.description": "Oživit robotická stvoření.",

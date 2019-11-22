@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "هەموو شتێک بخە سەر دوگمە.",
     "gui.extension.microbit.description": "پڕۆژەکانت ببەستەوە لەگەڵ جیهان.",
     "gui.extension.microbit.connectingMessage": "پێکەوەبەستن...",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "ڕۆبۆتی بە کاردانەوە دروست بکە و زیاتر.",
     "gui.extension.ev3.connectingMessage": "پەیوەندیکردن. دڵنیابە کە نێرکی EV3ەکەت داناوە بە 1234.",
     "gui.extension.boost.description": "هێنانی دروستکراوی ڕۆبۆتی بۆ ژیان.",

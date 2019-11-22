@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Dèan iuchair de rud sam bith.",
     "gui.extension.microbit.description": "Ceanglaich na pròiseactan agad ris an t-saoghal.",
     "gui.extension.microbit.connectingMessage": "Ceangal",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Tog robotairean eadar-ghnìomhach is a bharrachd.",
     "gui.extension.ev3.connectingMessage": "’Ga cheangal. Dèan cinnteach gun deach am PIN aig an EV3 agad a shuidheachadh air 1234.",
     "gui.extension.boost.description": "Beòthaich robotairean.",

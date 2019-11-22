@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "なんでもキーボードにしてみる。",
     "gui.extension.microbit.description": "あなたのプロジェクトを、ほんとうのせかいと、つなぎます。",
     "gui.extension.microbit.connectingMessage": "せつぞくちゅう",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "たいわするロボットなどをつくる。",
     "gui.extension.ev3.connectingMessage": "せつぞくちゅうです。EV3のピンが1234にせっていされていることを、かくにんしてください。",
     "gui.extension.boost.description": "ロボットさくひんに、いのちをふきこもう。",

@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Make anything into a key.",
     "gui.extension.microbit.description": "የእርስዎ ፕሮጀክቶች ያገናኙ ከዓለሙ ጋር",
     "gui.extension.microbit.connectingMessage": "በመገናኘት ላይ ነው",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "በይነግንኙነት ሮቦቶችና ተጨማሪ ነገሮች ይገንቡ",
     "gui.extension.ev3.connectingMessage": "በመገናኘት ላይ ነው። EV3 ላይ ያለው ዕስፒልዎ ወደ 1234 እንደተቀየረ ያረጋግጡ።",
     "gui.extension.boost.description": "Bring robotic creations to life.",

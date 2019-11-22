@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Иарбанзаалакь иалхтәуп ацаԥха.",
     "gui.extension.microbit.description": "Шәпроеқтқәа адунеи иашәырдыр.",
     "gui.extension.microbit.connectingMessage": "Аимадара",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Иаԥышәҵала аинтерактивтә роботи егьырҭ аобиектқәеи.",
     "gui.extension.ev3.connectingMessage": "Аимадара. Агәра шәга, pin-код EV3 аҟны 1234 шықәыргылоу.   ",
     "gui.extension.boost.description": "Аробот аԥсы ахашәҵа",

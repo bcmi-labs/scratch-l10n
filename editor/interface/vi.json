@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Make anything into a key.",
     "gui.extension.microbit.description": "Kết nối dự án của bạn với thế giới.",
     "gui.extension.microbit.connectingMessage": "Đang kết nối",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Làm những con rô-bốt tương tác và hơn thế nữa.",
     "gui.extension.ev3.connectingMessage": "Đang kết nối. Hãy chắc chắn rằng mã PIN trên EV3 của bạn là 1234.",
     "gui.extension.boost.description": "Bring robotic creations to life.",

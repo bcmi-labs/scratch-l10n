@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Nima bo'lsa ham klavyatura orqala yaratib ko'ring",
     "gui.extension.microbit.description": "Loyihani dunyo bilan ulashib ko'ring",
     "gui.extension.microbit.connectingMessage": "Unalmoqda...",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Interaktiv robotlarni va boshqalarni yarating.",
     "gui.extension.ev3.connectingMessage": "Ulanmoqda...EV3 dagi pin 1234 ga o'rnatilganligi tekshirib ko'ring",
     "gui.extension.boost.description": "Robot mavjudotlariga hayotga olib keling",

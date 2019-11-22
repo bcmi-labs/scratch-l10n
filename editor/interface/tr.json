@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Herşeyi dokunmatik yap.",
     "gui.extension.microbit.description": "Projelerini dünya ile paylaş.",
     "gui.extension.microbit.connectingMessage": "Bağlanıyor",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Etkileşimli robotlar ve daha fazlasını oluştur.",
     "gui.extension.ev3.connectingMessage": "Bağlanıyor. EV3'teki Pinin 1234 olarak ayarlandığından emin ol.",
     "gui.extension.boost.description": "Robotik kreasyonları hayata geçirin.",

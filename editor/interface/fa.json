@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "همه چیز را درون یک کلید قرار دهید.",
     "gui.extension.microbit.description": "پروژه‌ی خود را به جهان متصل کنید.",
     "gui.extension.microbit.connectingMessage": "درحال اتصال",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "ربات‌های تعاملی و حتی چیزهای بیشتر بسازید.",
     "gui.extension.ev3.connectingMessage": "در حال اتصال. مطمئن شوید که سنجاق روی EV3 شما به 1234 مقداردهی شده است",
     "gui.extension.boost.description": "به ساخته‌های رباتی زندگی ببخشید.",

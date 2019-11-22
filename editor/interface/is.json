@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Make anything into a key.",
     "gui.extension.microbit.description": "Tengdu verkefnin þín við heiminn. ",
     "gui.extension.microbit.connectingMessage": "Tengjast",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Búðu til gagnvirk vélmenni og fleira. ",
     "gui.extension.ev3.connectingMessage": "Tengist. Passaðu að pinnið í EV3 sé 1234.",
     "gui.extension.boost.description": "Bring robotic creations to life.",

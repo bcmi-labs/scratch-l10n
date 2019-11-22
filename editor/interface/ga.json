@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Déan eochair as aon rud.",
     "gui.extension.microbit.description": "Cuir do chuid tionscadal os comhair an domhain.",
     "gui.extension.microbit.connectingMessage": "Ceangal",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Róbait idirghníomhacha agus tuilleadh.",
     "gui.extension.ev3.connectingMessage": "Ag ceangal. Deimhnigh gurb é 1234 an PIN ar do EV3.",
     "gui.extension.boost.description": "Cuir beocht i róbat.",

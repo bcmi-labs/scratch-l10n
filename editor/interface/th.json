@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "ทำทุกอย่างให้เป็นกุญแจ",
     "gui.extension.microbit.description": "เชื่อมต่อโครงงานของคุณกับทั่วโลก",
     "gui.extension.microbit.connectingMessage": "กำลังเชื่อมต่อ",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "สร้างหุ่นยนต์โต้ตอบและอื่นๆ",
     "gui.extension.ev3.connectingMessage": "กำลังเชื่อมต่อ ตรวจสอบให้แน่ใจว่าขาของ EV3 ตั้งไว้ที่ 1234",
     "gui.extension.boost.description": "ทำสิ่งประดิษฐ์หุ่นยนต์ให้มีชีวิต",

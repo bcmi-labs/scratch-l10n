@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Buat apapun menjadi sebuah tombol.",
     "gui.extension.microbit.description": "Hubungkan karya-karyamu ke dunia.",
     "gui.extension.microbit.connectingMessage": "Menyambung",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Buat robot-robot interaktif dan lebih banyak lagi.",
     "gui.extension.ev3.connectingMessage": "Menyambung. Pastikan pin di EV3 kamu diatur ke 1234.",
     "gui.extension.boost.description": "Hidupkan kreasi-kreasi robotik.",

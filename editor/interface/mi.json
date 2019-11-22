@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Whakamahia te aha noa hei pātuhi.",
     "gui.extension.microbit.description": "Honohonoa ō kaupapa ki te ao.",
     "gui.extension.microbit.connectingMessage": "Kei te hono",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Hangaia he karetao tauwhitiwhiti, te aha rānei.",
     "gui.extension.ev3.connectingMessage": "Kei te hono. Kia tika te tautuhi i te pine EV3 ki te 1234.",
     "gui.extension.boost.description": "Bring robotic creations to life.",

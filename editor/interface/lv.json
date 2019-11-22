@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Pārveido jebkuru lietu par taustiņu.",
     "gui.extension.microbit.description": "Savieno savus projektus ar pasauli.",
     "gui.extension.microbit.connectingMessage": "Savienojas",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Būvē interaktīvus robotus un daudz ko citu.",
     "gui.extension.ev3.connectingMessage": "Savienojas. Pārliecinies, ka tava EV3 pin kods ir 1234.",
     "gui.extension.boost.description": "Bring robotic creations to life.",

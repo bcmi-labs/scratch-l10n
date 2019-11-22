@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "무엇이든지 키보드 자판으로 만들어 보세요.",
     "gui.extension.microbit.description": "프로젝트를 세계와 연결해 보세요.",
     "gui.extension.microbit.connectingMessage": "연결 중",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "감지하고 반응하는 로봇 등을 만들어 보세요.",
     "gui.extension.ev3.connectingMessage": "연결 중입니다. EV3의 pin이 1234로 설정되었는지 확인하세요.",
     "gui.extension.boost.description": "Bring robotic creations to life.",

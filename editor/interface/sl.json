@@ -442,6 +442,8 @@
     "gui.extension.makeymakey.description": "Poljubno stvar spremeni v tipko.",
     "gui.extension.microbit.description": "Poveži svoje projekte s svetom.",
     "gui.extension.microbit.connectingMessage": "Povezovanje",
+    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Ustvari interaktivne robote in ... .",
     "gui.extension.ev3.connectingMessage": "Povezovanje. preveri, da je pin na EV3 nastavljen na 1234.",
     "gui.extension.boost.description": "Oživi robotske kreacije.",
