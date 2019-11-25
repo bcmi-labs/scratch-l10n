@@ -442,7 +442,7 @@
     "gui.extension.makeymakey.description": "Trasforma qualunque cosa in un pulsante",
     "gui.extension.microbit.description": "Collega il tuo progetto con il mondo che ti circonda",
     "gui.extension.microbit.connectingMessage": "Collegamento in corso",
-    "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSense.description": "Percepisci il mondo intorno a te con l'Arduino Nano 33 BLE Sense",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Collegamento in corso",
     "gui.extension.ev3.description": "Costruisci robot interattivi e altro ancora.",
     "gui.extension.ev3.connectingMessage": "Connessione in corso. Assicurati che il pin sul tuo EV3 sia 1234.",
