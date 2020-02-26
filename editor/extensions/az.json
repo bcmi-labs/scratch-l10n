@@ -107,7 +107,7 @@
     "arduinoNano33BleSense.setDigitalPinMode": "Initialize digital pin [DIGITAL_PINS] as [DIGITAL_MODE]",
     "arduinoNano33BleSense.setAnalogPin": "Set the analog output of the analog pin [ANALOG_PINS] as [ANALOG_VALUE]",
     "arduinoNano33BleSense.getAnalogPin": "Read analog pin [ANALOG_PINS]",
-    "arduinoNano33BleSense.setServoCommand": "Set the servo motor angle on pin [DIGITAL_PINS] to [DEGREES_ROTATION]  °",
+    "arduinoNano33BleSense.setServoCommand": "Set the servo motor angle on pin [DIGITAL_PINS] to [DEGREES_ROTATION] °",
     "arduinoNano33BleSense.getTiltedAngel": "Measure tilted over [SENSOR_2D_AXIS] in °",
     "arduinoNano33BleSense.whenGesture": "When hand moves [SENSOR_DIRECTION]",
     "arduinoNano33BleSense.isGestured": "Has the hand moved [SENSOR_DIRECTION]?",
