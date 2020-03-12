@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "پڕۆژەکانت ببەستەوە لەگەڵ جیهان.",
     "gui.extension.microbit.connectingMessage": "پێکەوەبەستن...",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "ڕۆبۆتی بە کاردانەوە دروست بکە و زیاتر.",
     "gui.extension.ev3.connectingMessage": "پەیوەندیکردن. دڵنیابە کە نێرکی EV3ەکەت داناوە بە 1234.",

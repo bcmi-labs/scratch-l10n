@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Під'єднати ваші проекти до навколишнього світу",
     "gui.extension.microbit.connectingMessage": "Під'єднання",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Створити інтерактивних роботів і більше.",
     "gui.extension.ev3.connectingMessage": "Під'єднання. Переконайтеся, що пін на вашому EV3 встановлено на 1234.",

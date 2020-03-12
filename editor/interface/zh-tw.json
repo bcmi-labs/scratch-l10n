@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "讓你的專案與實體世界連結。",
     "gui.extension.microbit.connectingMessage": "正在連線",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "創作互動機器人以及更多。",
     "gui.extension.ev3.connectingMessage": "正在連接，請確定 EV3 主機上的 Pin 碼已設為 1234。",

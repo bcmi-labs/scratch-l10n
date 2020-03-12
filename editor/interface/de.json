@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Verbinde deine Projekte mit der realen Welt.",
     "gui.extension.microbit.connectingMessage": "Verbinde",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Baue interaktive Roboter und mehr.",
     "gui.extension.ev3.connectingMessage": "Verbinde. Stelle sicher, dass das Kennwort auf deiner EV3 auf 1234 gesetzt ist.",

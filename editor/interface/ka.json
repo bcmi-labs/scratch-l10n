@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "დაუკავშირდი მსოფლიოს შენი პროექტებით.",
     "gui.extension.microbit.connectingMessage": "კავშირის დამყარება",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "ააგე ინტერაქტიული რობოტები და ბევრი სხვა რამ.",
     "gui.extension.ev3.connectingMessage": "კავშირის დამყარება. დარწმუნდი, რომ შენს EV3-ზე დაყენებულია პინის მნიშვნელობა 1234.",

@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Poveži svoj projekt sa svijetom.",
     "gui.extension.microbit.connectingMessage": "Povezivanje",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Izgradi interaktivne robote i još mnogo toga.",
     "gui.extension.ev3.connectingMessage": "Spajanje. Provjeri je li pin na EV3 postavljen na 1234.",

@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Kapcsold össze a programjaidat a világgal.",
     "gui.extension.microbit.connectingMessage": "Kapcsolódás",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Építs interaktív robotokat és sok mást.",
     "gui.extension.ev3.connectingMessage": "Csatlakozás. Győződj meg róla, hogy az EV3-ban lévő tű 1234-re van állítva.",

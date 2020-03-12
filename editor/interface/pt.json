@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Ligue os seus projectos ao mundo.",
     "gui.extension.microbit.connectingMessage": "Ligando",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Crie robôs interactivos e muito mais.",
     "gui.extension.ev3.connectingMessage": "Ligando. Assegure-se de que o pino no seu EV3 está configurado para 1234.",

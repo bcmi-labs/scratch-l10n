@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "把作品连接到实体世界。",
     "gui.extension.microbit.connectingMessage": "正在连接",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "搭建交互机器人等。",
     "gui.extension.ev3.connectingMessage": "正在连接。请确保EV3上的识别码(PIN)已经设置为1234。",

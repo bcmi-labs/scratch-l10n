@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Conectează-ți proiectele cu lumea.",
     "gui.extension.microbit.connectingMessage": "Conectare",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Construiește roboți interactivi și mai mult decât atât.",
     "gui.extension.ev3.connectingMessage": "Conectare. Asigură-te că pin-ul dispozitivului EV3 este 1234.",

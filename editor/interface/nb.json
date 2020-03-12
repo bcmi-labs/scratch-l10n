@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Koble prosjektet ditt til den fysiske verden",
     "gui.extension.microbit.connectingMessage": "Kobler til",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Lag interaktive roboter og maskiner",
     "gui.extension.ev3.connectingMessage": "Kobler til. Pass på at PIN-koden på din EV3 er satt til 1234.",

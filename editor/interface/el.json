@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Σύνδεσε τα έργα σου με τον πραγματικό κόσμο.",
     "gui.extension.microbit.connectingMessage": "Γίνεται σύνδεση",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Φτιάξε διαδραστικά ρομπότ και άλλα.",
     "gui.extension.ev3.connectingMessage": "Γίνεται σύνδεση. Βεβαιωθείτε ότι η ακίδα στο EV3 σας έχει οριστεί σε 1234.",

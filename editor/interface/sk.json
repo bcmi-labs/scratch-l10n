@@ -443,6 +443,7 @@
     "gui.extension.microbit.description": "Programujme fyzické zariadenia.",
     "gui.extension.microbit.connectingMessage": "Pripájam sa",
     "gui.extension.arduinoNano33BleSense.description": "Sense the world around you with the Arduino Nano 33 BLE Sense",
+    "gui.extension.arduinoNano33BleSenseUSB.description": "Sense the world around you with the Arduino Nano 33 BLE Sense via USB",
     "gui.extension.arduinoNano33BleSense.connectingMessage": "Connecting",
     "gui.extension.ev3.description": "Vytvárame roboty a robotické hračky.",
     "gui.extension.ev3.connectingMessage": "Pripájam sa. Presvedč sa, že pin na tvojom EV3 je nastavený na 1234.",
