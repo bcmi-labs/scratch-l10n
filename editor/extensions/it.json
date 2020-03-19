@@ -103,6 +103,7 @@
     "arduinoNano33BleSense.digitalLevel.HIGH": "ALTO",
     "arduinoNano33BleSense.digitalMode.INPUT": "INPUT",
     "arduinoNano33BleSense.digitalMode.OUTPUT": "OUTPUT",
+    "arduinoNano33BleSense.isProximityCovered": "Il sensore di prossimità è coperto",
     "arduinoNano33BleSense.setDigitalPin": "Imposta l'uscita del pin digitale [DIGITAL_PINS] come [DIGITAL_LEVEL]",
     "arduinoNano33BleSense.setDigitalPinMode": "Imposta il digital pin [DIGITAL_PINS] come [DIGITAL_MODE]",
     "arduinoNano33BleSense.setAnalogPin": "Imposta l'uscita analogica del pin analogico [ANALOG_PINS] come [ANALOG_VALUE]",
