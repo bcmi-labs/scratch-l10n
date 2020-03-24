@@ -109,6 +109,7 @@
     "arduinoNano33BleSense.setAnalogPin": "Imposta l'uscita analogica del pin analogico [ANALOG_PINS] come [ANALOG_VALUE]",
     "arduinoNano33BleSense.getAnalogPin": "Leggi pin analogico [ANALOG_PINS]",
     "arduinoNano33BleSense.setServoCommand": "Imposta l'angolo del servo motore sul pin [DIGITAL_PINS] a [DEGREES_ROTATION] °",
+    "arduinoNano33BleSense.setServoStopCommand": "Ferma servo motore su pin [DIGITAL_PINS]",
     "arduinoNano33BleSense.getTiltedAngel": "Misura [SENSOR_2D_AXIS] inclinato in gradi",
     "arduinoNano33BleSense.whenGesture": "Quando la mano si muove [SENSOR_DIRECTION]",
     "arduinoNano33BleSense.isGestured": "La mano si muove [SENSOR_DIRECTION]?",
